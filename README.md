@@ -74,7 +74,7 @@ Current Focus: Backend APIs, LLM integration (aimanager), and web apps
 <!-- REPOS-START -->
 | Repository | Description | Primary Stack | Stars | Updates |
 | :--- | :--- | :--- | :---: | :---: |
-| [**aimanager**](https://github.com/HafizRP/aimanager) | ⚡ AI Manager — Unified LLM Gateway, Smart Model Router, Token Quota & FinOps Management (https://aimanager.b14.my.id) | `Go` | ⭐ 0 | `2026-10-09` |
+| [**aimanager**](https://github.com/HafizRP/aimanager) | ⚡ AI Manager — Unified LLM Gateway, Smart Model Router, Token Quota & FinOps Management (https://aimanager.b14.my.id) | `Go` | ⭐ 0 | `2026-10-11` |
 | [**todolistapp.github.io**](https://github.com/HafizRP/todolistapp.github.io) | To Do List app | `HTML` | ⭐ 0 | `2026-10-09` |
 | [**testNuxtApp**](https://github.com/HafizRP/testNuxtApp) | Personal project repository | `Vue` | ⭐ 0 | `2026-10-09` |
 | [**testAdonisApp**](https://github.com/HafizRP/testAdonisApp) | Personal project repository | `TypeScript` | ⭐ 0 | `2026-10-09` |
