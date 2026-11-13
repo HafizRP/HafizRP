@@ -75,7 +75,7 @@ Current Focus: Backend APIs, LLM integration (aimanager), and web apps
 | Repository | Description | Primary Stack | Stars | Updates |
 | :--- | :--- | :--- | :---: | :---: |
 | [**swap-hub**](https://github.com/HafizRP/swap-hub) | Collaborative peer-to-peer skill exchange, project management, and real-time workspace platform for students built with Laravel 12, Livewire 3, Tailwind CSS & Laravel Reverb. | `Blade` | ⭐ 0 | `2026-11-12` |
-| [**aimanager**](https://github.com/HafizRP/aimanager) | ⚡ AI Manager — Unified LLM Gateway, Smart Model Router, Token Quota & FinOps Management (https://aimanager.b14.my.id) | `Go` | ⭐ 0 | `2026-11-12` |
+| [**aimanager**](https://github.com/HafizRP/aimanager) | ⚡ AI Manager — Unified LLM Gateway, Smart Model Router, Token Quota & FinOps Management (https://aimanager.b14.my.id) | `Go` | ⭐ 0 | `2026-11-13` |
 | [**petdiagnose**](https://github.com/HafizRP/petdiagnose) | Personal project repository | `Dart` | ⭐ 1 | `2026-10-09` |
 | [**grossmart**](https://github.com/HafizRP/grossmart) | Personal project repository | `TypeScript` | ⭐ 0 | `2026-10-22` |
 | [**todolistapp.github.io**](https://github.com/HafizRP/todolistapp.github.io) | To Do List app | `HTML` | ⭐ 0 | `2026-10-09` |
